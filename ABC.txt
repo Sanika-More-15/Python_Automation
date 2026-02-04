@@ -1,0 +1,2 @@
+This is ABC.txt file content
+Coping contents of ABC.txt to Demo.txt
