@@ -1,0 +1,7 @@
+Duplicate Files List
+--------------------
+Demo\C.doc
+Demo\D.doc
+Demo\logfile\Automation29_1X.py
+Demo\logfile\Automation29_2X.py
+Demo\logfile\AX.txt
