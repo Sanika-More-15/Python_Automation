@@ -1,0 +1,1992 @@
+------------------------------------------------------------
+Platform Surveillance System
+Log Created At : Sat Feb 14 14:48:11 2026
+------------------------------------------------------------
+
+
+Total Process : 248
+------------------------------------------------------------
+PID : 0
+Name : System Idle Process
+Threads : 16
+Open Files : 0
+RSS Memory : 0.01
+VMS Memory : 0.06
+Memory Percent : 0.00
+------------------------------------------------------------
+PID : 4
+Name : System
+Threads : 278
+Open Files : 0
+RSS Memory : 0.75
+VMS Memory : 0.06
+Memory Percent : 0.01
+------------------------------------------------------------
+PID : 128
+Name : dllhost.exe
+Threads : 7
+Open Files : 7
+RSS Memory : 13.9
+VMS Memory : 5.47
+Memory Percent : 0.17
+------------------------------------------------------------
+PID : 152
+Name : Registry
+Threads : 4
+Open Files : Access Denied
+RSS Memory : 29.74
+VMS Memory : 17.47
+Memory Percent : 0.37
+------------------------------------------------------------
+PID : 584
+Name : services.exe
+Threads : 8
+Open Files : Access Denied
+RSS Memory : 9.25
+VMS Memory : 6.04
+Memory Percent : 0.12
+------------------------------------------------------------
+PID : 632
+Name : smss.exe
+Threads : 2
+Open Files : Access Denied
+RSS Memory : 0.93
+VMS Memory : 1.12
+Memory Percent : 0.01
+------------------------------------------------------------
+PID : 704
+Name : PhoneExperienceHost.exe
+Threads : 16
+Open Files : 149
+RSS Memory : 48.97
+VMS Memory : 49.9
+Memory Percent : 0.61
+------------------------------------------------------------
+PID : 728
+Name : dwm.exe
+Threads : 22
+Open Files : Access Denied
+RSS Memory : 60.69
+VMS Memory : 677.75
+Memory Percent : 0.76
+------------------------------------------------------------
+PID : 788
+Name : svchost.exe
+Threads : 5
+Open Files : Access Denied
+RSS Memory : 7.57
+VMS Memory : 1.89
+Memory Percent : 0.09
+------------------------------------------------------------
+PID : 796
+Name : csrss.exe
+Threads : 11
+Open Files : Access Denied
+RSS Memory : 6.11
+VMS Memory : 2.11
+Memory Percent : 0.08
+------------------------------------------------------------
+PID : 808
+Name : SearchHost.exe
+Threads : 68
+Open Files : 28
+RSS Memory : 6.12
+VMS Memory : 111.97
+Memory Percent : 0.08
+------------------------------------------------------------
+PID : 820
+Name : lsass.exe
+Threads : 9
+Open Files : Access Denied
+RSS Memory : 23.23
+VMS Memory : 9.92
+Memory Percent : 0.29
+------------------------------------------------------------
+PID : 848
+Name : svchost.exe
+Threads : 5
+Open Files : Access Denied
+RSS Memory : 11.02
+VMS Memory : 2.85
+Memory Percent : 0.14
+------------------------------------------------------------
+PID : 916
+Name : wininit.exe
+Threads : 2
+Open Files : Access Denied
+RSS Memory : 7.21
+VMS Memory : 1.59
+Memory Percent : 0.09
+------------------------------------------------------------
+PID : 948
+Name : RuntimeBroker.exe
+Threads : 1
+Open Files : 1
+RSS Memory : 7.03
+VMS Memory : 2.96
+Memory Percent : 0.09
+------------------------------------------------------------
+PID : 1080
+Name : conhost.exe
+Threads : 5
+Open Files : 1
+RSS Memory : 3.76
+VMS Memory : 1.26
+Memory Percent : 0.05
+------------------------------------------------------------
+PID : 1104
+Name : svchost.exe
+Threads : 11
+Open Files : Access Denied
+RSS Memory : 27.08
+VMS Memory : 13.13
+Memory Percent : 0.34
+------------------------------------------------------------
+PID : 1132
+Name : fontdrvhost.exe
+Threads : 5
+Open Files : Access Denied
+RSS Memory : 2.72
+VMS Memory : 1.6
+Memory Percent : 0.03
+------------------------------------------------------------
+PID : 1232
+Name : explorer.exe
+Threads : 76
+Open Files : 62
+RSS Memory : 135.78
+VMS Memory : 139.25
+Memory Percent : 1.69
+------------------------------------------------------------
+PID : 1240
+Name : svchost.exe
+Threads : 11
+Open Files : Access Denied
+RSS Memory : 16.61
+VMS Memory : 10.45
+Memory Percent : 0.21
+------------------------------------------------------------
+PID : 1288
+Name : chrome.exe
+Threads : 12
+Open Files : 7
+RSS Memory : 22.18
+VMS Memory : 12.96
+Memory Percent : 0.28
+------------------------------------------------------------
+PID : 1292
+Name : svchost.exe
+Threads : 3
+Open Files : Access Denied
+RSS Memory : 11.33
+VMS Memory : 3.38
+Memory Percent : 0.14
+------------------------------------------------------------
+PID : 1400
+Name : TextInputHost.exe
+Threads : 23
+Open Files : 9
+RSS Memory : 33.89
+VMS Memory : 26.07
+Memory Percent : 0.42
+------------------------------------------------------------
+PID : 1408
+Name : svchost.exe
+Threads : 7
+Open Files : Access Denied
+RSS Memory : 15.39
+VMS Memory : 3.86
+Memory Percent : 0.19
+------------------------------------------------------------
+PID : 1416
+Name : svchost.exe
+Threads : 3
+Open Files : Access Denied
+RSS Memory : 13.86
+VMS Memory : 2.85
+Memory Percent : 0.17
+------------------------------------------------------------
+PID : 1424
+Name : svchost.exe
+Threads : 3
+Open Files : Access Denied
+RSS Memory : 9.95
+VMS Memory : 2.15
+Memory Percent : 0.12
+------------------------------------------------------------
+PID : 1480
+Name : svchost.exe
+Threads : 4
+Open Files : Access Denied
+RSS Memory : 10.03
+VMS Memory : 2.96
+Memory Percent : 0.12
+------------------------------------------------------------
+PID : 1488
+Name : svchost.exe
+Threads : 4
+Open Files : Access Denied
+RSS Memory : 9.52
+VMS Memory : 2.27
+Memory Percent : 0.12
+------------------------------------------------------------
+PID : 1508
+Name : svchost.exe
+Threads : 2
+Open Files : 2
+RSS Memory : 9.37
+VMS Memory : 2.11
+Memory Percent : 0.12
+------------------------------------------------------------
+PID : 1512
+Name : svchost.exe
+Threads : 1
+Open Files : Access Denied
+RSS Memory : 9.38
+VMS Memory : 6.8
+Memory Percent : 0.12
+------------------------------------------------------------
+PID : 1616
+Name : svchost.exe
+Threads : 17
+Open Files : Access Denied
+RSS Memory : 16.39
+VMS Memory : 7.88
+Memory Percent : 0.20
+------------------------------------------------------------
+PID : 1656
+Name : IntelCpHDCPSvc.exe
+Threads : 3
+Open Files : Access Denied
+RSS Memory : 7.12
+VMS Memory : 1.46
+Memory Percent : 0.09
+------------------------------------------------------------
+PID : 1668
+Name : svchost.exe
+Threads : 10
+Open Files : Access Denied
+RSS Memory : 9.27
+VMS Memory : 2.65
+Memory Percent : 0.12
+------------------------------------------------------------
+PID : 1720
+Name : svchost.exe
+Threads : 4
+Open Files : Access Denied
+RSS Memory : 5.59
+VMS Memory : 1.4
+Memory Percent : 0.07
+------------------------------------------------------------
+PID : 1728
+Name : SearchIndexer.exe
+Threads : 9
+Open Files : Access Denied
+RSS Memory : 30.25
+VMS Memory : 143.61
+Memory Percent : 0.38
+------------------------------------------------------------
+PID : 1788
+Name : svchost.exe
+Threads : 2
+Open Files : Access Denied
+RSS Memory : 10.52
+VMS Memory : 2.32
+Memory Percent : 0.13
+------------------------------------------------------------
+PID : 1868
+Name : chrome.exe
+Threads : 20
+Open Files : 35
+RSS Memory : 49.51
+VMS Memory : 65.86
+Memory Percent : 0.62
+------------------------------------------------------------
+PID : 1948
+Name : chrome.exe
+Threads : 25
+Open Files : 40
+RSS Memory : 432.46
+VMS Memory : 464.95
+Memory Percent : 5.39
+------------------------------------------------------------
+PID : 1972
+Name : IntelCpHeciSvc.exe
+Threads : 3
+Open Files : Access Denied
+RSS Memory : 6.79
+VMS Memory : 1.62
+Memory Percent : 0.08
+------------------------------------------------------------
+PID : 2196
+Name : svchost.exe
+Threads : 5
+Open Files : Access Denied
+RSS Memory : 19.45
+VMS Memory : 4.14
+Memory Percent : 0.24
+------------------------------------------------------------
+PID : 2284
+Name : WUDFHost.exe
+Threads : 11
+Open Files : Access Denied
+RSS Memory : 15.68
+VMS Memory : 7.79
+Memory Percent : 0.20
+------------------------------------------------------------
+PID : 2332
+Name : svchost.exe
+Threads : 9
+Open Files : Access Denied
+RSS Memory : 8.95
+VMS Memory : 3.57
+Memory Percent : 0.11
+------------------------------------------------------------
+PID : 2420
+Name : svchost.exe
+Threads : 10
+Open Files : Access Denied
+RSS Memory : 15.91
+VMS Memory : 20.21
+Memory Percent : 0.20
+------------------------------------------------------------
+PID : 2500
+Name : svchost.exe
+Threads : 2
+Open Files : Access Denied
+RSS Memory : 7.78
+VMS Memory : 1.99
+Memory Percent : 0.10
+------------------------------------------------------------
+PID : 2508
+Name : svchost.exe
+Threads : 2
+Open Files : Access Denied
+RSS Memory : 5.65
+VMS Memory : 1.23
+Memory Percent : 0.07
+------------------------------------------------------------
+PID : 2520
+Name : svchost.exe
+Threads : 3
+Open Files : Access Denied
+RSS Memory : 5.74
+VMS Memory : 2.45
+Memory Percent : 0.07
+------------------------------------------------------------
+PID : 2536
+Name : svchost.exe
+Threads : 4
+Open Files : Access Denied
+RSS Memory : 7.88
+VMS Memory : 1.92
+Memory Percent : 0.10
+------------------------------------------------------------
+PID : 2584
+Name : conhost.exe
+Threads : 2
+Open Files : 1
+RSS Memory : 6.75
+VMS Memory : 5.27
+Memory Percent : 0.08
+------------------------------------------------------------
+PID : 2600
+Name : svchost.exe
+Threads : 1
+Open Files : Access Denied
+RSS Memory : 10.87
+VMS Memory : 1.99
+Memory Percent : 0.14
+------------------------------------------------------------
+PID : 2640
+Name : svchost.exe
+Threads : 6
+Open Files : Access Denied
+RSS Memory : 16.2
+VMS Memory : 6.7
+Memory Percent : 0.20
+------------------------------------------------------------
+PID : 2660
+Name : Code.exe
+Threads : 27
+Open Files : 24
+RSS Memory : 265.45
+VMS Memory : 445.82
+Memory Percent : 3.31
+------------------------------------------------------------
+PID : 2708
+Name : MemCompression
+Threads : 42
+Open Files : Access Denied
+RSS Memory : 35.89
+VMS Memory : 3.93
+Memory Percent : 0.45
+------------------------------------------------------------
+PID : 2828
+Name : svchost.exe
+Threads : 2
+Open Files : Access Denied
+RSS Memory : 9.09
+VMS Memory : 1.94
+Memory Percent : 0.11
+------------------------------------------------------------
+PID : 2868
+Name : pet.exe
+Threads : 1
+Open Files : 3
+RSS Memory : 6.7
+VMS Memory : 1.91
+Memory Percent : 0.08
+------------------------------------------------------------
+PID : 2872
+Name : svchost.exe
+Threads : 2
+Open Files : Access Denied
+RSS Memory : 5.75
+VMS Memory : 2.21
+Memory Percent : 0.07
+------------------------------------------------------------
+PID : 2908
+Name : igfxCUIService.exe
+Threads : 2
+Open Files : Access Denied
+RSS Memory : 8.88
+VMS Memory : 2.05
+Memory Percent : 0.11
+------------------------------------------------------------
+PID : 2968
+Name : svchost.exe
+Threads : 2
+Open Files : Access Denied
+RSS Memory : 9.06
+VMS Memory : 2.43
+Memory Percent : 0.11
+------------------------------------------------------------
+PID : 2976
+Name : svchost.exe
+Threads : 6
+Open Files : Access Denied
+RSS Memory : 8.04
+VMS Memory : 2.04
+Memory Percent : 0.10
+------------------------------------------------------------
+PID : 2984
+Name : svchost.exe
+Threads : 5
+Open Files : Access Denied
+RSS Memory : 22.85
+VMS Memory : 9.01
+Memory Percent : 0.28
+------------------------------------------------------------
+PID : 3048
+Name : svchost.exe
+Threads : 11
+Open Files : Access Denied
+RSS Memory : 16.83
+VMS Memory : 13.26
+Memory Percent : 0.21
+------------------------------------------------------------
+PID : 3096
+Name : svchost.exe
+Threads : 1
+Open Files : Access Denied
+RSS Memory : 6.38
+VMS Memory : 1.38
+Memory Percent : 0.08
+------------------------------------------------------------
+PID : 3208
+Name : svchost.exe
+Threads : 7
+Open Files : Access Denied
+RSS Memory : 12.48
+VMS Memory : 9.0
+Memory Percent : 0.16
+------------------------------------------------------------
+PID : 3220
+Name : svchost.exe
+Threads : 1
+Open Files : Access Denied
+RSS Memory : 24.01
+VMS Memory : 18.25
+Memory Percent : 0.30
+------------------------------------------------------------
+PID : 3292
+Name : OneDrive.exe
+Threads : 38
+Open Files : 47
+RSS Memory : 41.73
+VMS Memory : 70.11
+Memory Percent : 0.52
+------------------------------------------------------------
+PID : 3340
+Name : svchost.exe
+Threads : 11
+Open Files : Access Denied
+RSS Memory : 16.52
+VMS Memory : 4.2
+Memory Percent : 0.21
+------------------------------------------------------------
+PID : 3368
+Name : svchost.exe
+Threads : 3
+Open Files : Access Denied
+RSS Memory : 7.09
+VMS Memory : 1.5
+Memory Percent : 0.09
+------------------------------------------------------------
+PID : 3444
+Name : svchost.exe
+Threads : 5
+Open Files : Access Denied
+RSS Memory : 7.77
+VMS Memory : 2.57
+Memory Percent : 0.10
+------------------------------------------------------------
+PID : 3452
+Name : svchost.exe
+Threads : 7
+Open Files : Access Denied
+RSS Memory : 10.05
+VMS Memory : 2.74
+Memory Percent : 0.13
+------------------------------------------------------------
+PID : 3460
+Name : svchost.exe
+Threads : 3
+Open Files : Access Denied
+RSS Memory : 9.71
+VMS Memory : 2.21
+Memory Percent : 0.12
+------------------------------------------------------------
+PID : 3512
+Name : taskhostw.exe
+Threads : 7
+Open Files : 11
+RSS Memory : 19.98
+VMS Memory : 7.94
+Memory Percent : 0.25
+------------------------------------------------------------
+PID : 3616
+Name : chrome.exe
+Threads : 20
+Open Files : 34
+RSS Memory : 173.16
+VMS Memory : 253.69
+Memory Percent : 2.16
+------------------------------------------------------------
+PID : 3676
+Name : svchost.exe
+Threads : 2
+Open Files : Access Denied
+RSS Memory : 7.26
+VMS Memory : 1.88
+Memory Percent : 0.09
+------------------------------------------------------------
+PID : 3764
+Name : svchost.exe
+Threads : 14
+Open Files : Access Denied
+RSS Memory : 19.73
+VMS Memory : 7.15
+Memory Percent : 0.25
+------------------------------------------------------------
+PID : 3788
+Name : Code.exe
+Threads : 59
+Open Files : 88
+RSS Memory : 101.2
+VMS Memory : 128.37
+Memory Percent : 1.26
+------------------------------------------------------------
+PID : 3824
+Name : svchost.exe
+Threads : 3
+Open Files : Access Denied
+RSS Memory : 12.5
+VMS Memory : 3.25
+Memory Percent : 0.16
+------------------------------------------------------------
+PID : 3884
+Name : svchost.exe
+Threads : 1
+Open Files : Access Denied
+RSS Memory : 6.08
+VMS Memory : 1.15
+Memory Percent : 0.08
+------------------------------------------------------------
+PID : 3924
+Name : spoolsv.exe
+Threads : 7
+Open Files : Access Denied
+RSS Memory : 12.17
+VMS Memory : 5.48
+Memory Percent : 0.15
+------------------------------------------------------------
+PID : 4132
+Name : svchost.exe
+Threads : 5
+Open Files : Access Denied
+RSS Memory : 21.13
+VMS Memory : 8.36
+Memory Percent : 0.26
+------------------------------------------------------------
+PID : 4140
+Name : AnyDesk.exe
+Threads : 5
+Open Files : Access Denied
+RSS Memory : 10.7
+VMS Memory : 31.12
+Memory Percent : 0.13
+------------------------------------------------------------
+PID : 4152
+Name : svchost.exe
+Threads : 11
+Open Files : Access Denied
+RSS Memory : 33.02
+VMS Memory : 25.76
+Memory Percent : 0.41
+------------------------------------------------------------
+PID : 4160
+Name : DAX3API.exe
+Threads : 14
+Open Files : Access Denied
+RSS Memory : 13.39
+VMS Memory : 6.5
+Memory Percent : 0.17
+------------------------------------------------------------
+PID : 4168
+Name : svchost.exe
+Threads : 19
+Open Files : Access Denied
+RSS Memory : 24.98
+VMS Memory : 31.14
+Memory Percent : 0.31
+------------------------------------------------------------
+PID : 4180
+Name : OfficeClickToRun.exe
+Threads : 18
+Open Files : Access Denied
+RSS Memory : 24.6
+VMS Memory : 37.61
+Memory Percent : 0.31
+------------------------------------------------------------
+PID : 4188
+Name : FMService64.exe
+Threads : 7
+Open Files : Access Denied
+RSS Memory : 8.36
+VMS Memory : 2.87
+Memory Percent : 0.10
+------------------------------------------------------------
+PID : 4240
+Name : svchost.exe
+Threads : 4
+Open Files : Access Denied
+RSS Memory : 4.48
+VMS Memory : 6.5
+Memory Percent : 0.06
+------------------------------------------------------------
+PID : 4260
+Name : OneApp.IGCC.WinService.exe
+Threads : 6
+Open Files : Access Denied
+RSS Memory : 12.65
+VMS Memory : 37.29
+Memory Percent : 0.16
+------------------------------------------------------------
+PID : 4268
+Name : Lenovo.Modern.ImController.exe
+Threads : 28
+Open Files : Access Denied
+RSS Memory : 23.59
+VMS Memory : 31.64
+Memory Percent : 0.29
+------------------------------------------------------------
+PID : 4288
+Name : esif_uf.exe
+Threads : 4
+Open Files : Access Denied
+RSS Memory : 5.71
+VMS Memory : 2.04
+Memory Percent : 0.07
+------------------------------------------------------------
+PID : 4348
+Name : svchost.exe
+Threads : 5
+Open Files : Access Denied
+RSS Memory : 10.23
+VMS Memory : 2.67
+Memory Percent : 0.13
+------------------------------------------------------------
+PID : 4356
+Name : omtsreco.exe
+Threads : 4
+Open Files : Access Denied
+RSS Memory : 10.8
+VMS Memory : 6.3
+Memory Percent : 0.13
+------------------------------------------------------------
+PID : 4400
+Name : msedge.exe
+Threads : 7
+Open Files : 1
+RSS Memory : 7.94
+VMS Memory : 2.27
+Memory Percent : 0.10
+------------------------------------------------------------
+PID : 4428
+Name : SearchProtocolHost.exe
+Threads : 5
+Open Files : Access Denied
+RSS Memory : 12.29
+VMS Memory : 2.69
+Memory Percent : 0.15
+------------------------------------------------------------
+PID : 4452
+Name : LenovoVantageService.exe
+Threads : 27
+Open Files : Access Denied
+RSS Memory : 27.62
+VMS Memory : 46.48
+Memory Percent : 0.34
+------------------------------------------------------------
+PID : 4460
+Name : LNBITSSvc.exe
+Threads : 10
+Open Files : Access Denied
+RSS Memory : 14.14
+VMS Memory : 8.54
+Memory Percent : 0.18
+------------------------------------------------------------
+PID : 4492
+Name : LenovoUtilityService.exe
+Threads : 6
+Open Files : Access Denied
+RSS Memory : 10.7
+VMS Memory : 20.79
+Memory Percent : 0.13
+------------------------------------------------------------
+PID : 4504
+Name : svchost.exe
+Threads : 5
+Open Files : Access Denied
+RSS Memory : 10.18
+VMS Memory : 2.29
+Memory Percent : 0.13
+------------------------------------------------------------
+PID : 4524
+Name : wlanext.exe
+Threads : 1
+Open Files : Access Denied
+RSS Memory : 7.3
+VMS Memory : 1.64
+Memory Percent : 0.09
+------------------------------------------------------------
+PID : 4532
+Name : MpDefenderCoreService.exe
+Threads : 8
+Open Files : Access Denied
+RSS Memory : 18.28
+VMS Memory : 10.36
+Memory Percent : 0.23
+------------------------------------------------------------
+PID : 4544
+Name : LMS.exe
+Threads : 3
+Open Files : Access Denied
+RSS Memory : 7.73
+VMS Memory : 3.02
+Memory Percent : 0.10
+------------------------------------------------------------
+PID : 4576
+Name : SafeExamBrowser.Service.exe
+Threads : 4
+Open Files : Access Denied
+RSS Memory : 18.98
+VMS Memory : 27.08
+Memory Percent : 0.24
+------------------------------------------------------------
+PID : 4592
+Name : mongod.exe
+Threads : 44
+Open Files : Access Denied
+RSS Memory : 27.08
+VMS Memory : 400.91
+Memory Percent : 0.34
+------------------------------------------------------------
+PID : 4628
+Name : mysqld.exe
+Threads : 3
+Open Files : Access Denied
+RSS Memory : 7.65
+VMS Memory : 33.13
+Memory Percent : 0.10
+------------------------------------------------------------
+PID : 4688
+Name : svchost.exe
+Threads : 4
+Open Files : Access Denied
+RSS Memory : 8.39
+VMS Memory : 2.03
+Memory Percent : 0.10
+------------------------------------------------------------
+PID : 4728
+Name : svchost.exe
+Threads : 3
+Open Files : Access Denied
+RSS Memory : 5.39
+VMS Memory : 1.27
+Memory Percent : 0.07
+------------------------------------------------------------
+PID : 4744
+Name : RstMwService.exe
+Threads : 8
+Open Files : Access Denied
+RSS Memory : 7.29
+VMS Memory : 1.86
+Memory Percent : 0.09
+------------------------------------------------------------
+PID : 4752
+Name : UDClientService.exe
+Threads : 42
+Open Files : Access Denied
+RSS Memory : 24.34
+VMS Memory : 71.16
+Memory Percent : 0.30
+------------------------------------------------------------
+PID : 4764
+Name : RtkAudUService64.exe
+Threads : 14
+Open Files : Access Denied
+RSS Memory : 10.68
+VMS Memory : 5.04
+Memory Percent : 0.13
+------------------------------------------------------------
+PID : 4776
+Name : svchost.exe
+Threads : 18
+Open Files : Access Denied
+RSS Memory : 23.7
+VMS Memory : 12.16
+Memory Percent : 0.30
+------------------------------------------------------------
+PID : 4792
+Name : MsMpEng.exe
+Threads : 37
+Open Files : Access Denied
+RSS Memory : 81.64
+VMS Memory : 271.14
+Memory Percent : 1.02
+------------------------------------------------------------
+PID : 4836
+Name : svchost.exe
+Threads : 8
+Open Files : Access Denied
+RSS Memory : 18.16
+VMS Memory : 4.65
+Memory Percent : 0.23
+------------------------------------------------------------
+PID : 4864
+Name : tnslsnr.exe
+Threads : 3
+Open Files : Access Denied
+RSS Memory : 15.08
+VMS Memory : 11.55
+Memory Percent : 0.19
+------------------------------------------------------------
+PID : 4876
+Name : conhost.exe
+Threads : 2
+Open Files : Access Denied
+RSS Memory : 5.07
+VMS Memory : 5.18
+Memory Percent : 0.06
+------------------------------------------------------------
+PID : 5100
+Name : jhi_service.exe
+Threads : 2
+Open Files : Access Denied
+RSS Memory : 6.53
+VMS Memory : 1.24
+Memory Percent : 0.08
+------------------------------------------------------------
+PID : 5132
+Name : powershell.exe
+Threads : 9
+Open Files : 8
+RSS Memory : 9.7
+VMS Memory : 58.0
+Memory Percent : 0.12
+------------------------------------------------------------
+PID : 5200
+Name : Code.exe
+Threads : 18
+Open Files : 16
+RSS Memory : 17.33
+VMS Memory : 14.77
+Memory Percent : 0.22
+------------------------------------------------------------
+PID : 5252
+Name : WindowsPackageManagerServer.exe
+Threads : 3
+Open Files : 8
+RSS Memory : 28.38
+VMS Memory : 8.45
+Memory Percent : 0.35
+------------------------------------------------------------
+PID : 5280
+Name : oracle.exe
+Threads : 76
+Open Files : Access Denied
+RSS Memory : 683.84
+VMS Memory : 1965.68
+Memory Percent : 8.52
+------------------------------------------------------------
+PID : 5332
+Name : WmiPrvSE.exe
+Threads : 5
+Open Files : Access Denied
+RSS Memory : 17.9
+VMS Memory : 18.9
+Memory Percent : 0.22
+------------------------------------------------------------
+PID : 5516
+Name : svchost.exe
+Threads : 9
+Open Files : Access Denied
+RSS Memory : 14.89
+VMS Memory : 3.66
+Memory Percent : 0.19
+------------------------------------------------------------
+PID : 5720
+Name : svchost.exe
+Threads : 4
+Open Files : Access Denied
+RSS Memory : 18.24
+VMS Memory : 3.86
+Memory Percent : 0.23
+------------------------------------------------------------
+PID : 6032
+Name : LocationNotificationWindows.exe
+Threads : 1
+Open Files : 2
+RSS Memory : 0.8
+VMS Memory : 1.91
+Memory Percent : 0.01
+------------------------------------------------------------
+PID : 6068
+Name : SecurityHealthService.exe
+Threads : 8
+Open Files : Access Denied
+RSS Memory : 16.59
+VMS Memory : 8.58
+Memory Percent : 0.21
+------------------------------------------------------------
+PID : 6072
+Name : mysqld.exe
+Threads : 36
+Open Files : Access Denied
+RSS Memory : 17.2
+VMS Memory : 625.68
+Memory Percent : 0.21
+------------------------------------------------------------
+PID : 6084
+Name : conhost.exe
+Threads : 4
+Open Files : Access Denied
+RSS Memory : 7.06
+VMS Memory : 5.56
+Memory Percent : 0.09
+------------------------------------------------------------
+PID : 6384
+Name : WUDFHost.exe
+Threads : 5
+Open Files : Access Denied
+RSS Memory : 5.5
+VMS Memory : 1.59
+Memory Percent : 0.07
+------------------------------------------------------------
+PID : 6404
+Name : WmiApSrv.exe
+Threads : 2
+Open Files : Access Denied
+RSS Memory : 8.62
+VMS Memory : 1.53
+Memory Percent : 0.11
+------------------------------------------------------------
+PID : 6592
+Name : conhost.exe
+Threads : 5
+Open Files : 1
+RSS Memory : 6.93
+VMS Memory : 1.29
+Memory Percent : 0.09
+------------------------------------------------------------
+PID : 6696
+Name : svchost.exe
+Threads : 5
+Open Files : Access Denied
+RSS Memory : 13.52
+VMS Memory : 2.79
+Memory Percent : 0.17
+------------------------------------------------------------
+PID : 6752
+Name : WUDFHost.exe
+Threads : 5
+Open Files : Access Denied
+RSS Memory : 5.55
+VMS Memory : 1.58
+Memory Percent : 0.07
+------------------------------------------------------------
+PID : 7000
+Name : unsecapp.exe
+Threads : 2
+Open Files : Access Denied
+RSS Memory : 8.43
+VMS Memory : 2.57
+Memory Percent : 0.11
+------------------------------------------------------------
+PID : 7072
+Name : msedge.exe
+Threads : 11
+Open Files : 18
+RSS Memory : 11.87
+VMS Memory : 9.06
+Memory Percent : 0.15
+------------------------------------------------------------
+PID : 7340
+Name : svchost.exe
+Threads : 27
+Open Files : Access Denied
+RSS Memory : 38.35
+VMS Memory : 50.18
+Memory Percent : 0.48
+------------------------------------------------------------
+PID : 7620
+Name : unsecapp.exe
+Threads : 3
+Open Files : Access Denied
+RSS Memory : 8.5
+VMS Memory : 1.62
+Memory Percent : 0.11
+------------------------------------------------------------
+PID : 7684
+Name : AggregatorHost.exe
+Threads : 4
+Open Files : Access Denied
+RSS Memory : 12.04
+VMS Memory : 4.2
+Memory Percent : 0.15
+------------------------------------------------------------
+PID : 7704
+Name : svchost.exe
+Threads : 2
+Open Files : Access Denied
+RSS Memory : 7.52
+VMS Memory : 1.43
+Memory Percent : 0.09
+------------------------------------------------------------
+PID : 7716
+Name : backgroundTaskHost.exe
+Threads : 5
+Open Files : 1
+RSS Memory : 2.88
+VMS Memory : 6.31
+Memory Percent : 0.04
+------------------------------------------------------------
+PID : 7756
+Name : svchost.exe
+Threads : 3
+Open Files : Access Denied
+RSS Memory : 7.22
+VMS Memory : 1.62
+Memory Percent : 0.09
+------------------------------------------------------------
+PID : 7768
+Name : msedge.exe
+Threads : 20
+Open Files : 19
+RSS Memory : 32.42
+VMS Memory : 15.49
+Memory Percent : 0.40
+------------------------------------------------------------
+PID : 7916
+Name : svchost.exe
+Threads : 15
+Open Files : Access Denied
+RSS Memory : 15.22
+VMS Memory : 11.22
+Memory Percent : 0.19
+------------------------------------------------------------
+PID : 7956
+Name : ctfmon.exe
+Threads : 12
+Open Files : Access Denied
+RSS Memory : 15.66
+VMS Memory : 7.96
+Memory Percent : 0.20
+------------------------------------------------------------
+PID : 8048
+Name : svchost.exe
+Threads : 6
+Open Files : Access Denied
+RSS Memory : 7.12
+VMS Memory : 2.05
+Memory Percent : 0.09
+------------------------------------------------------------
+PID : 8096
+Name : Code.exe
+Threads : 25
+Open Files : 7
+RSS Memory : 34.21
+VMS Memory : 91.57
+Memory Percent : 0.43
+------------------------------------------------------------
+PID : 8160
+Name : winlogon.exe
+Threads : 3
+Open Files : Access Denied
+RSS Memory : 11.29
+VMS Memory : 2.43
+Memory Percent : 0.14
+------------------------------------------------------------
+PID : 8196
+Name : Code.exe
+Threads : 17
+Open Files : 17
+RSS Memory : 579.52
+VMS Memory : 1209.41
+Memory Percent : 7.22
+------------------------------------------------------------
+PID : 8232
+Name : RtkAudUService64.exe
+Threads : 7
+Open Files : 0
+RSS Memory : 12.66
+VMS Memory : 4.01
+Memory Percent : 0.16
+------------------------------------------------------------
+PID : 8412
+Name : msedge.exe
+Threads : 13
+Open Files : 4
+RSS Memory : 21.31
+VMS Memory : 55.49
+Memory Percent : 0.27
+------------------------------------------------------------
+PID : 8460
+Name : chrome.exe
+Threads : 48
+Open Files : 294
+RSS Memory : 150.41
+VMS Memory : 156.41
+Memory Percent : 1.87
+------------------------------------------------------------
+PID : 8468
+Name : svchost.exe
+Threads : 9
+Open Files : Access Denied
+RSS Memory : 16.24
+VMS Memory : 5.9
+Memory Percent : 0.20
+------------------------------------------------------------
+PID : 8688
+Name : svchost.exe
+Threads : 9
+Open Files : Access Denied
+RSS Memory : 19.22
+VMS Memory : 3.99
+Memory Percent : 0.24
+------------------------------------------------------------
+PID : 8724
+Name : SystemSettingsBroker.exe
+Threads : 18
+Open Files : 8
+RSS Memory : 19.68
+VMS Memory : 7.92
+Memory Percent : 0.25
+------------------------------------------------------------
+PID : 8732
+Name : svchost.exe
+Threads : 7
+Open Files : Access Denied
+RSS Memory : 8.2
+VMS Memory : 2.49
+Memory Percent : 0.10
+------------------------------------------------------------
+PID : 8836
+Name : Code.exe
+Threads : 17
+Open Files : 5
+RSS Memory : 90.51
+VMS Memory : 114.51
+Memory Percent : 1.13
+------------------------------------------------------------
+PID : 8900
+Name : chrome.exe
+Threads : 7
+Open Files : 1
+RSS Memory : 8.49
+VMS Memory : 6.66
+Memory Percent : 0.11
+------------------------------------------------------------
+PID : 9008
+Name : conhost.exe
+Threads : 2
+Open Files : 1
+RSS Memory : 6.49
+VMS Memory : 5.27
+Memory Percent : 0.08
+------------------------------------------------------------
+PID : 9096
+Name : svchost.exe
+Threads : 1
+Open Files : Access Denied
+RSS Memory : 11.14
+VMS Memory : 2.17
+Memory Percent : 0.14
+------------------------------------------------------------
+PID : 9536
+Name : StartMenuExperienceHost.exe
+Threads : 12
+Open Files : 14
+RSS Memory : 42.29
+VMS Memory : 53.9
+Memory Percent : 0.53
+------------------------------------------------------------
+PID : 9560
+Name : chrome.exe
+Threads : 12
+Open Files : 27
+RSS Memory : 18.99
+VMS Memory : 10.01
+Memory Percent : 0.24
+------------------------------------------------------------
+PID : 9844
+Name : svchost.exe
+Threads : 2
+Open Files : 1
+RSS Memory : 11.71
+VMS Memory : 2.27
+Memory Percent : 0.15
+------------------------------------------------------------
+PID : 9908
+Name : AnyDesk.exe
+Threads : 9
+Open Files : 3
+RSS Memory : 19.25
+VMS Memory : 29.66
+Memory Percent : 0.24
+------------------------------------------------------------
+PID : 10124
+Name : Code.exe
+Threads : 17
+Open Files : 18
+RSS Memory : 344.16
+VMS Memory : 815.81
+Memory Percent : 4.29
+------------------------------------------------------------
+PID : 10272
+Name : conhost.exe
+Threads : 4
+Open Files : Access Denied
+RSS Memory : 8.03
+VMS Memory : 5.61
+Memory Percent : 0.10
+------------------------------------------------------------
+PID : 10436
+Name : csrss.exe
+Threads : 14
+Open Files : Access Denied
+RSS Memory : 7.18
+VMS Memory : 2.74
+Memory Percent : 0.09
+------------------------------------------------------------
+PID : 10452
+Name : FnHotkeyCapsLKNumLK.exe
+Threads : 2
+Open Files : Access Denied
+RSS Memory : 12.81
+VMS Memory : 19.28
+Memory Percent : 0.16
+------------------------------------------------------------
+PID : 10508
+Name : Code.exe
+Threads : 34
+Open Files : 9
+RSS Memory : 35.91
+VMS Memory : 133.79
+Memory Percent : 0.45
+------------------------------------------------------------
+PID : 10852
+Name : DAX3API.exe
+Threads : 3
+Open Files : Access Denied
+RSS Memory : 9.99
+VMS Memory : 2.37
+Memory Percent : 0.12
+------------------------------------------------------------
+PID : 10904
+Name : Code.exe
+Threads : 27
+Open Files : 8
+RSS Memory : 20.7
+VMS Memory : 85.39
+Memory Percent : 0.26
+------------------------------------------------------------
+PID : 11200
+Name : Code.exe
+Threads : 12
+Open Files : 5
+RSS Memory : 12.88
+VMS Memory : 118.33
+Memory Percent : 0.16
+------------------------------------------------------------
+PID : 11220
+Name : svchost.exe
+Threads : 11
+Open Files : Access Denied
+RSS Memory : 14.27
+VMS Memory : 5.45
+Memory Percent : 0.18
+------------------------------------------------------------
+PID : 11900
+Name : conhost.exe
+Threads : 2
+Open Files : 1
+RSS Memory : 3.77
+VMS Memory : 5.27
+Memory Percent : 0.05
+------------------------------------------------------------
+PID : 11980
+Name : unsecapp.exe
+Threads : 3
+Open Files : 0
+RSS Memory : 8.53
+VMS Memory : 1.68
+Memory Percent : 0.11
+------------------------------------------------------------
+PID : 12112
+Name : svchost.exe
+Threads : 11
+Open Files : Access Denied
+RSS Memory : 14.75
+VMS Memory : 3.57
+Memory Percent : 0.18
+------------------------------------------------------------
+PID : 12196
+Name : chrome.exe
+Threads : 19
+Open Files : 4
+RSS Memory : 88.12
+VMS Memory : 190.7
+Memory Percent : 1.10
+------------------------------------------------------------
+PID : 12212
+Name : chrome.exe
+Threads : 23
+Open Files : 66
+RSS Memory : 344.82
+VMS Memory : 336.89
+Memory Percent : 4.30
+------------------------------------------------------------
+PID : 12232
+Name : Postman Agent.exe
+Threads : 13
+Open Files : 7
+RSS Memory : 15.79
+VMS Memory : 12.9
+Memory Percent : 0.20
+------------------------------------------------------------
+PID : 12236
+Name : conhost.exe
+Threads : 5
+Open Files : 1
+RSS Memory : 6.77
+VMS Memory : 1.26
+Memory Percent : 0.08
+------------------------------------------------------------
+PID : 12260
+Name : conhost.exe
+Threads : 5
+Open Files : 1
+RSS Memory : 6.59
+VMS Memory : 1.27
+Memory Percent : 0.08
+------------------------------------------------------------
+PID : 12328
+Name : Code.exe
+Threads : 26
+Open Files : 25
+RSS Memory : 60.42
+VMS Memory : 396.17
+Memory Percent : 0.75
+------------------------------------------------------------
+PID : 12604
+Name : NisSrv.exe
+Threads : 3
+Open Files : Access Denied
+RSS Memory : 9.56
+VMS Memory : 4.12
+Memory Percent : 0.12
+------------------------------------------------------------
+PID : 12744
+Name : chrome.exe
+Threads : 19
+Open Files : 22
+RSS Memory : 36.5
+VMS Memory : 70.77
+Memory Percent : 0.45
+------------------------------------------------------------
+PID : 13120
+Name : LenovoVantage-(VantageCoreAddin).exe
+Threads : 20
+Open Files : Access Denied
+RSS Memory : 8.71
+VMS Memory : 30.98
+Memory Percent : 0.11
+------------------------------------------------------------
+PID : 13128
+Name : LenovoVantage-(GenericMessagingAddin).exe
+Threads : 12
+Open Files : 55
+RSS Memory : 9.9
+VMS Memory : 36.05
+Memory Percent : 0.12
+------------------------------------------------------------
+PID : 13164
+Name : RuntimeBroker.exe
+Threads : 13
+Open Files : 4
+RSS Memory : 14.5
+VMS Memory : 6.43
+Memory Percent : 0.18
+------------------------------------------------------------
+PID : 13188
+Name : fontdrvhost.exe
+Threads : 5
+Open Files : Access Denied
+RSS Memory : 7.0
+VMS Memory : 6.54
+Memory Percent : 0.09
+------------------------------------------------------------
+PID : 13376
+Name : pet.exe
+Threads : 1
+Open Files : 3
+RSS Memory : 3.47
+VMS Memory : 1.78
+Memory Percent : 0.04
+------------------------------------------------------------
+PID : 13468
+Name : chrome.exe
+Threads : 22
+Open Files : 34
+RSS Memory : 41.1
+VMS Memory : 29.34
+Memory Percent : 0.51
+------------------------------------------------------------
+PID : 13476
+Name : Postman Agent.exe
+Threads : 31
+Open Files : 11
+RSS Memory : 20.32
+VMS Memory : 168.54
+Memory Percent : 0.25
+------------------------------------------------------------
+PID : 13480
+Name : chrome.exe
+Threads : 20
+Open Files : 39
+RSS Memory : 18.1
+VMS Memory : 63.65
+Memory Percent : 0.23
+------------------------------------------------------------
+PID : 13560
+Name : msedge.exe
+Threads : 15
+Open Files : 8
+RSS Memory : 11.59
+VMS Memory : 21.84
+Memory Percent : 0.14
+------------------------------------------------------------
+PID : 13648
+Name : svchost.exe
+Threads : 7
+Open Files : 7
+RSS Memory : 27.88
+VMS Memory : 11.52
+Memory Percent : 0.35
+------------------------------------------------------------
+PID : 13980
+Name : backgroundTaskHost.exe
+Threads : 13
+Open Files : 23
+RSS Memory : 2.04
+VMS Memory : 17.15
+Memory Percent : 0.03
+------------------------------------------------------------
+PID : 14076
+Name : SocketHeciServer.exe
+Threads : 2
+Open Files : Access Denied
+RSS Memory : 7.05
+VMS Memory : 1.5
+Memory Percent : 0.09
+------------------------------------------------------------
+PID : 14112
+Name : SecurityHealthSystray.exe
+Threads : 1
+Open Files : 1
+RSS Memory : 10.44
+VMS Memory : 1.82
+Memory Percent : 0.13
+------------------------------------------------------------
+PID : 14272
+Name : powershell.exe
+Threads : 9
+Open Files : 8
+RSS Memory : 20.74
+VMS Memory : 57.59
+Memory Percent : 0.26
+------------------------------------------------------------
+PID : 14340
+Name : AppProvisioningPlugin.exe
+Threads : 10
+Open Files : Access Denied
+RSS Memory : 13.31
+VMS Memory : 41.42
+Memory Percent : 0.17
+------------------------------------------------------------
+PID : 14520
+Name : svchost.exe
+Threads : 1
+Open Files : 1
+RSS Memory : 13.18
+VMS Memory : 3.02
+Memory Percent : 0.16
+------------------------------------------------------------
+PID : 14532
+Name : Postman Agent.exe
+Threads : 11
+Open Files : 5
+RSS Memory : 14.23
+VMS Memory : 28.52
+Memory Percent : 0.18
+------------------------------------------------------------
+PID : 14696
+Name : powershell.exe
+Threads : 9
+Open Files : 8
+RSS Memory : 46.83
+VMS Memory : 61.02
+Memory Percent : 0.58
+------------------------------------------------------------
+PID : 14828
+Name : svchost.exe
+Threads : 11
+Open Files : Access Denied
+RSS Memory : 14.2
+VMS Memory : 7.54
+Memory Percent : 0.18
+------------------------------------------------------------
+PID : 14884
+Name : AutoModeDetect.exe
+Threads : 10
+Open Files : Access Denied
+RSS Memory : 11.67
+VMS Memory : 2.68
+Memory Percent : 0.15
+------------------------------------------------------------
+PID : 14992
+Name : LockApp.exe
+Threads : 11
+Open Files : 4
+RSS Memory : 27.09
+VMS Memory : 15.4
+Memory Percent : 0.34
+------------------------------------------------------------
+PID : 15088
+Name : MoNotificationUx.exe
+Threads : 1
+Open Files : 2
+RSS Memory : 11.75
+VMS Memory : 2.31
+Memory Percent : 0.15
+------------------------------------------------------------
+PID : 15124
+Name : msedge.exe
+Threads : 21
+Open Files : 33
+RSS Memory : 12.55
+VMS Memory : 64.97
+Memory Percent : 0.16
+------------------------------------------------------------
+PID : 15396
+Name : Code.exe
+Threads : 19
+Open Files : 54
+RSS Memory : 148.13
+VMS Memory : 240.46
+Memory Percent : 1.85
+------------------------------------------------------------
+PID : 15488
+Name : chrome.exe
+Threads : 21
+Open Files : 62
+RSS Memory : 243.09
+VMS Memory : 262.36
+Memory Percent : 3.03
+------------------------------------------------------------
+PID : 15592
+Name : Code.exe
+Threads : 7
+Open Files : 2
+RSS Memory : 7.8
+VMS Memory : 10.44
+Memory Percent : 0.10
+------------------------------------------------------------
+PID : 15652
+Name : svchost.exe
+Threads : 4
+Open Files : 11
+RSS Memory : 24.78
+VMS Memory : 8.54
+Memory Percent : 0.31
+------------------------------------------------------------
+PID : 15732
+Name : igfxEM.exe
+Threads : 3
+Open Files : 2
+RSS Memory : 13.87
+VMS Memory : 3.61
+Memory Percent : 0.17
+------------------------------------------------------------
+PID : 15840
+Name : aesm_service.exe
+Threads : 2
+Open Files : Access Denied
+RSS Memory : 15.11
+VMS Memory : 3.52
+Memory Percent : 0.19
+------------------------------------------------------------
+PID : 15860
+Name : svchost.exe
+Threads : 2
+Open Files : 6
+RSS Memory : 17.14
+VMS Memory : 3.29
+Memory Percent : 0.21
+------------------------------------------------------------
+PID : 15912
+Name : Locator.exe
+Threads : 2
+Open Files : Access Denied
+RSS Memory : 3.04
+VMS Memory : 0.68
+Memory Percent : 0.04
+------------------------------------------------------------
+PID : 15924
+Name : ShellExperienceHost.exe
+Threads : 31
+Open Files : 8
+RSS Memory : 11.49
+VMS Memory : 37.18
+Memory Percent : 0.14
+------------------------------------------------------------
+PID : 15964
+Name : WidgetService.exe
+Threads : 5
+Open Files : 9
+RSS Memory : 13.12
+VMS Memory : 4.61
+Memory Percent : 0.16
+------------------------------------------------------------
+PID : 16024
+Name : svchost.exe
+Threads : 2
+Open Files : Access Denied
+RSS Memory : 17.83
+VMS Memory : 3.43
+Memory Percent : 0.22
+------------------------------------------------------------
+PID : 16120
+Name : FnHotkeyUtility.exe
+Threads : 9
+Open Files : 0
+RSS Memory : 15.89
+VMS Memory : 41.42
+Memory Percent : 0.20
+------------------------------------------------------------
+PID : 16252
+Name : WebCompanion.exe
+Threads : 15
+Open Files : 42
+RSS Memory : 13.07
+VMS Memory : 67.84
+Memory Percent : 0.16
+------------------------------------------------------------
+PID : 16268
+Name : svchost.exe
+Threads : 1
+Open Files : Access Denied
+RSS Memory : 6.9
+VMS Memory : 1.63
+Memory Percent : 0.09
+------------------------------------------------------------
+PID : 16304
+Name : audiodg.exe
+Threads : 6
+Open Files : Access Denied
+RSS Memory : 19.79
+VMS Memory : 8.98
+Memory Percent : 0.25
+------------------------------------------------------------
+PID : 16544
+Name : Code.exe
+Threads : 21
+Open Files : 54
+RSS Memory : 301.93
+VMS Memory : 365.36
+Memory Percent : 3.76
+------------------------------------------------------------
+PID : 16612
+Name : Code.exe
+Threads : 27
+Open Files : 8
+RSS Memory : 26.01
+VMS Memory : 85.71
+Memory Percent : 0.32
+------------------------------------------------------------
+PID : 16732
+Name : svchost.exe
+Threads : 5
+Open Files : Access Denied
+RSS Memory : 14.25
+VMS Memory : 3.46
+Memory Percent : 0.18
+------------------------------------------------------------
+PID : 16864
+Name : WebexHost.exe
+Threads : 4
+Open Files : 3
+RSS Memory : 18.58
+VMS Memory : 8.17
+Memory Percent : 0.23
+------------------------------------------------------------
+PID : 16884
+Name : svchost.exe
+Threads : 6
+Open Files : 4
+RSS Memory : 17.31
+VMS Memory : 3.15
+Memory Percent : 0.22
+------------------------------------------------------------
+PID : 16956
+Name : FileSyncHelper.exe
+Threads : 6
+Open Files : Access Denied
+RSS Memory : 21.98
+VMS Memory : 5.54
+Memory Percent : 0.27
+------------------------------------------------------------
+PID : 17036
+Name : Code.exe
+Threads : 8
+Open Files : 5
+RSS Memory : 16.06
+VMS Memory : 28.22
+Memory Percent : 0.20
+------------------------------------------------------------
+PID : 17076
+Name : MessagingPlugin.exe
+Threads : 14
+Open Files : 9
+RSS Memory : 11.36
+VMS Memory : 45.97
+Memory Percent : 0.14
+------------------------------------------------------------
+PID : 17120
+Name : svchost.exe
+Threads : 8
+Open Files : Access Denied
+RSS Memory : 11.17
+VMS Memory : 3.57
+Memory Percent : 0.14
+------------------------------------------------------------
+PID : 17152
+Name : conhost.exe
+Threads : 3
+Open Files : Access Denied
+RSS Memory : 8.62
+VMS Memory : 5.72
+Memory Percent : 0.11
+------------------------------------------------------------
+PID : 17192
+Name : Code.exe
+Threads : 12
+Open Files : 5
+RSS Memory : 32.81
+VMS Memory : 126.89
+Memory Percent : 0.41
+------------------------------------------------------------
+PID : 17232
+Name : svchost.exe
+Threads : 4
+Open Files : Access Denied
+RSS Memory : 6.79
+VMS Memory : 1.67
+Memory Percent : 0.08
+------------------------------------------------------------
+PID : 17236
+Name : chrome.exe
+Threads : 19
+Open Files : 22
+RSS Memory : 24.99
+VMS Memory : 49.22
+Memory Percent : 0.31
+------------------------------------------------------------
+PID : 17308
+Name : msedge.exe
+Threads : 57
+Open Files : 128
+RSS Memory : 84.69
+VMS Memory : 69.31
+Memory Percent : 1.06
+------------------------------------------------------------
+PID : 17372
+Name : svchost.exe
+Threads : 3
+Open Files : Access Denied
+RSS Memory : 6.11
+VMS Memory : 1.21
+Memory Percent : 0.08
+------------------------------------------------------------
+PID : 17500
+Name : RuntimeBroker.exe
+Threads : 6
+Open Files : 5
+RSS Memory : 14.47
+VMS Memory : 7.52
+Memory Percent : 0.18
+------------------------------------------------------------
+PID : 17516
+Name : Code.exe
+Threads : 8
+Open Files : 17
+RSS Memory : 17.06
+VMS Memory : 26.38
+Memory Percent : 0.21
+------------------------------------------------------------
+PID : 17604
+Name : svchost.exe
+Threads : 3
+Open Files : 1
+RSS Memory : 9.34
+VMS Memory : 1.98
+Memory Percent : 0.12
+------------------------------------------------------------
+PID : 17672
+Name : sihost.exe
+Threads : 10
+Open Files : 1
+RSS Memory : 26.74
+VMS Memory : 6.76
+Memory Percent : 0.33
+------------------------------------------------------------
+PID : 17780
+Name : chrome.exe
+Threads : 10
+Open Files : 10
+RSS Memory : 13.61
+VMS Memory : 51.67
+Memory Percent : 0.17
+------------------------------------------------------------
+PID : 17864
+Name : powershell.exe
+Threads : 9
+Open Files : 8
+RSS Memory : 14.59
+VMS Memory : 70.81
+Memory Percent : 0.18
+------------------------------------------------------------
+PID : 17928
+Name : svchost.exe
+Threads : 3
+Open Files : 1
+RSS Memory : 9.26
+VMS Memory : 1.68
+Memory Percent : 0.12
+------------------------------------------------------------
+PID : 18192
+Name : RuntimeBroker.exe
+Threads : 12
+Open Files : 8
+RSS Memory : 23.7
+VMS Memory : 9.79
+Memory Percent : 0.30
+------------------------------------------------------------
+PID : 18272
+Name : Code.exe
+Threads : 8
+Open Files : 5
+RSS Memory : 16.11
+VMS Memory : 25.12
+Memory Percent : 0.20
+------------------------------------------------------------
+PID : 18292
+Name : RuntimeBroker.exe
+Threads : 11
+Open Files : 7
+RSS Memory : 22.03
+VMS Memory : 7.02
+Memory Percent : 0.27
+------------------------------------------------------------
+PID : 18372
+Name : Widgets.exe
+Threads : 8
+Open Files : 12
+RSS Memory : 27.65
+VMS Memory : 9.07
+Memory Percent : 0.34
+------------------------------------------------------------
+PID : 18684
+Name : backgroundTaskHost.exe
+Threads : 17
+Open Files : 5
+RSS Memory : 1.59
+VMS Memory : 19.05
+Memory Percent : 0.02
+------------------------------------------------------------
+PID : 18688
+Name : RuntimeBroker.exe
+Threads : 4
+Open Files : 2
+RSS Memory : 20.98
+VMS Memory : 4.04
+Memory Percent : 0.26
+------------------------------------------------------------
+PID : 19420
+Name : Lenovo.Modern.ImController.PluginHost.Device.exe
+Threads : 10
+Open Files : 18
+RSS Memory : 14.14
+VMS Memory : 20.95
+Memory Percent : 0.18
+------------------------------------------------------------
+PID : 20276
+Name : python.exe
+Threads : 3
+Open Files : 2
+RSS Memory : 25.02
+VMS Memory : 15.48
+Memory Percent : 0.31
+------------------------------------------------------------
+PID : 20428
+Name : svchost.exe
+Threads : 3
+Open Files : Access Denied
+RSS Memory : 8.11
+VMS Memory : 1.56
+Memory Percent : 0.10
+------------------------------------------------------------
